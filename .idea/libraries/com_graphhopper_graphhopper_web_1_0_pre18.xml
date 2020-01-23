@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="com.graphhopper:graphhopper-web:1.0-pre18" type="repository">
+    <properties maven-id="com.graphhopper:graphhopper-web:1.0-pre18" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/graphhopper/graphhopper-web/1.0-pre18/graphhopper-web-1.0-pre18.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/graphhopper/graphhopper-web/1.0-pre18/graphhopper-web-1.0-pre18-sources.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/graphhopper/graphhopper-core/1.0-pre18/graphhopper-core-1.0-pre18-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
